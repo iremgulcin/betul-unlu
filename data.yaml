@@ -1,0 +1,26 @@
+names:
+- Africanized Honey Bees
+- Aphids
+- Armyworms
+- Brown Marmorated Stink Bugs
+- Cabbage Loopers
+- Citrus Canker
+- Colorado Potato Beetles
+- Corn Borers
+- Corn Earworms
+- Fall Armyworms
+- Fruit Flies
+- Spider Mites
+- Thrips
+- Tomato Hornworms
+- Western Corn Rootworms
+nc: 15
+roboflow:
+  license: CC BY 4.0
+  project: insect-detection-uk1v2
+  url: https://universe.roboflow.com/betul-9otjz/insect-detection-uk1v2/dataset/8
+  version: 8
+  workspace: betul-9otjz
+test: /content/Insect-Detection-8/test/images
+train: /content/Insect-Detection-8/train/images
+val: /content/Insect-Detection-8/valid/images
